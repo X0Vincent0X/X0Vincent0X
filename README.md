@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @X0Vincent0X
-- 👀 I’m interested in Web Developement, C++, Unreal Engine 5
+- 👀 I’m interested in Web Developement and sometimes I do C++
 - 🌱 I’m currently learning CSS, HTML, Java-Script
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Not really good at programming but I´m making progress
